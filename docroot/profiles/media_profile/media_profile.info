@@ -47,7 +47,6 @@ dependencies[] = date_views
 ; Features extra
 dependencies[] = fe_block
 ; Fields
-dependencies[] = bundle_copy
 dependencies[] = conditional_fields
 dependencies[] = entityreference
 dependencies[] = field_collection
@@ -57,16 +56,12 @@ dependencies[] = imce
 ; Other
 dependencies[] = entity
 dependencies[] = menu_attributes
-dependencies[] = menu_clone
 dependencies[] = menu_token
-dependencies[] = multiblock
 dependencies[] = pathauto
-dependencies[] = special_menu_items
 dependencies[] = strongarm
 dependencies[] = token
 dependencies[] = uuid
 ; User interface
-dependencies[] = ckeditor
 dependencies[] = jquery_update
 ; Views
 dependencies[] = views
